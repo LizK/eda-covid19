@@ -42,3 +42,8 @@ In the pipeline.
 
 
 ## Repo Structure
+
+1. [Code Folder](https://github.com/ramonprz01/eda-covid19/tree/master/code)
+    - [Cleaning Folder](https://github.com/ramonprz01/eda-covid19/tree/master/code/clean)
+    
+ 
