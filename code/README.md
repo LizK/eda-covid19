@@ -34,3 +34,11 @@ Communicate all measures taken with the stakeholders of the project.
 
 
 ## EDA Process
+
+Findings
+
+1. There was a sharp increase in cases between March and the end May.
+2. Only South America continues to show an increase in cases in comparison to other continents.
+3. Africa and Oceania have the lowest average case reported per day in comparison to North America, Asia, and South America.
+4. There appears to be no static difference in the availability of beds by the thousands in each continent and by weekend. The trend changes month over month from low availability in April and May to more available beds in June.
+5. Since the pandemic started, the days where the least amount of reported cases occur are Mondays and Thursdays.
