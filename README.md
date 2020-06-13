@@ -1,5 +1,9 @@
 # EDA - COVID19 Project
 
+![covid-19](https://hsu.net.au/wp-content/uploads/2020/03/COVID-19.png)  
+**Source:** https://hsu.net.au/covid-19/
+
+
 **Last updated:** 13-Jun-2020
 
 
